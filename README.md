@@ -38,13 +38,18 @@ If you discover a security vulnerability within Laravel, please send the mail to
 
 ## How to install
 	
-	composer update
-	php artisan key:generate
-	php artisan serve --port=3111
+	1).composer update
+	
+	2).input employees_db
+	
+	3).php artisan key:generate
+	
+	4).php artisan serve --port=3111
+	
 unfollow
 
 
 
-## Chack your site
+## Please Check your site
 
        localhost:3111
